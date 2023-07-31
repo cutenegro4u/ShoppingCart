@@ -142,7 +142,6 @@
 		<finalName>shopieasy</finalName>
 	</build>
 	<artifactId>shopieasy</artifactId>
-	<build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
