@@ -140,9 +140,7 @@
 	</dependencies>
 	<build>
 		<finalName>shopieasy</finalName>
-	</build>
-	<artifactId>shopieasy</artifactId>
-    <plugins>
+		<plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
             <artifactId>maven-compiler-plugin</artifactId>
@@ -153,5 +151,8 @@
             </configuration>
         </plugin>
     </plugins>
+	</build>
+	<artifactId>shopieasy</artifactId>
+    
 </build>
 </project>
